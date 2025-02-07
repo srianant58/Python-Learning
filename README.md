@@ -1,2 +1,4 @@
-# Python Learning
- Python Learning and Playground
+# My Learnings
+ - Python packages
+ - Machine Learning
+ - Langchain
